@@ -118,7 +118,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 py-5 flex flex-col md:flex-row justify-between items-center gap-3 text-sm text-white/40">
-          <span>© 2025 GNIOT — Greater Noida Institute of Technology. All rights reserved.</span>
+          <span>© TheclickerIndia All rights reserved.</span>
           <div className="flex gap-4">
             <a href="#" className="hover:text-gold transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-gold transition-colors">Terms of Use</a>
